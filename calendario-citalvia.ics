@@ -176,15 +176,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-1@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T083000
 DTEND;TZID=Europe/Madrid:20261116T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
 DESCRIPTION:LinkedIn · vídeo horizontal «El mercado en 20 segundos» 
  — Publícalo desde tu perfil personal\; después la página de Citalvia
-  lo comparte. El enlace funciona en cuanto monte la voz.\nArchivos y text
- os: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov
-  · Lunes 16)
+  lo comparte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk
+ 4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -194,7 +193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-2@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T100000
 DTEND;TZID=Europe/Madrid:20261116T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -210,14 +209,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-3@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T193000
 DTEND;TZID=Europe/Madrid:20261116T194500
 SUMMARY:Citalvia · IG+FB · Reel «El mercado en 20 segundos»
-DESCRIPTION:Reel «El mercado en 20 segundos» — El vídeo con voz apare
- ce en este enlace en cuanto me pases los mp3 y lo monte.\nArchivos y text
- os: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov
-  · Lunes 16)
+DESCRIPTION:Reel «El mercado en 20 segundos»\nArchivos y textos: https:/
+ /claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 1
+ 6)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -227,7 +225,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-4@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T210000
 DTEND;TZID=Europe/Madrid:20261116T211500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -242,7 +240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-5@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261117T100000
 DTEND;TZID=Europe/Madrid:20261117T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -259,7 +257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-6@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261117T130000
 DTEND;TZID=Europe/Madrid:20261117T131500
 SUMMARY:Citalvia · IG+FB · Carrusel «Lo que tu chat nunca debería pedi
@@ -277,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-7@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261117T190000
 DTEND;TZID=Europe/Madrid:20261117T191500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -293,15 +291,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-8@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261118T083000
 DTEND;TZID=Europe/Madrid:20261118T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
 DESCRIPTION:LinkedIn · vídeo horizontal «De tu web a tu WhatsApp» — 
  Publícalo desde tu perfil personal\; después la página de Citalvia lo 
- comparte. El enlace funciona en cuanto monte la voz.\nArchivos y textos: 
- https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · 
- Miércoles 18)
+ comparte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvx
+ rSD7aU (Semana 16–22 nov · Miércoles 18)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -311,7 +308,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-9@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261118T100000
 DTEND;TZID=Europe/Madrid:20261118T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -327,14 +324,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-10@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261118T190000
 DTEND;TZID=Europe/Madrid:20261118T191500
 SUMMARY:Citalvia · IG+FB + TikTok · Reel «De tu web a tu WhatsApp»
-DESCRIPTION:Reel «De tu web a tu WhatsApp» — El vídeo con voz aparece
-  en este enlace en cuanto me pases los mp3 y lo monte.\nTikTok · mismo r
- eel\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
-  (Semana 16–22 nov · Miércoles 18)
+DESCRIPTION:Reel «De tu web a tu WhatsApp»\nTikTok · mismo reel\nArchiv
+ os y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16
+ –22 nov · Miércoles 18)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -344,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-11@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T100000
 DTEND;TZID=Europe/Madrid:20261119T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -360,7 +356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-12@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T130000
 DTEND;TZID=Europe/Madrid:20261119T131500
 SUMMARY:Citalvia · IG+FB · Publicación «¿Qué te preguntan más por W
@@ -378,7 +374,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-13@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T190000
 DTEND;TZID=Europe/Madrid:20261119T191500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -394,14 +390,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-14@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T193000
 DTEND;TZID=Europe/Madrid:20261119T194500
 SUMMARY:Citalvia · IG+FB · Reel «¿No tienes web? Te la hacemos»
-DESCRIPTION:Reel «¿No tienes web? Te la hacemos» — El vídeo con voz 
- aparece en este enlace en cuanto me pases los mp3 y lo monte.\nArchivos y
-  textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–2
- 2 nov · Jueves 19)
+DESCRIPTION:Reel «¿No tienes web? Te la hacemos»\nArchivos y textos: ht
+ tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Ju
+ eves 19)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -411,7 +406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-15@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T210000
 DTEND;TZID=Europe/Madrid:20261119T211500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -426,15 +421,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-16@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261120T083000
 DTEND;TZID=Europe/Madrid:20261120T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
 DESCRIPTION:LinkedIn · vídeo horizontal «Comentas DEMO» — Publícalo
-  desde tu perfil personal\; después la página de Citalvia lo comparte. 
- El enlace funciona en cuanto monte la voz.\nArchivos y textos: https://cl
- aude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20
- )
+  desde tu perfil personal\; después la página de Citalvia lo comparte.\
+ nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Se
+ mana 16–22 nov · Viernes 20)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -444,14 +438,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-17@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261120T183000
 DTEND;TZID=Europe/Madrid:20261120T184500
 SUMMARY:Citalvia · IG+FB + TikTok · Reel «Comentas DEMO»
-DESCRIPTION:Reel «Comentas DEMO» · activa ManyChat para «DEMO» — El
-  vídeo con voz aparece en este enlace en cuanto me pases los mp3 y lo mo
- nte.\nTikTok · mismo reel\nArchivos y textos: https://claude.ai/artifact
- /9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
+DESCRIPTION:Reel «Comentas DEMO» · activa ManyChat para «DEMO»\nTikTo
+ k · mismo reel\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtC
+ Hk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -461,7 +454,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-18@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261120T200000
 DTEND;TZID=Europe/Madrid:20261120T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -477,7 +470,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-19@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261121T120000
 DTEND;TZID=Europe/Madrid:20261121T121500
 SUMMARY:Citalvia · IG+FB · Carrusel «De "hola" a una ficha completa» (
@@ -495,7 +488,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-20@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261121T180000
 DTEND;TZID=Europe/Madrid:20261121T181500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -511,7 +504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-21@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261121T200000
 DTEND;TZID=Europe/Madrid:20261121T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -527,14 +520,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-22@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261122T193000
 DTEND;TZID=Europe/Madrid:20261122T194500
 SUMMARY:Citalvia · IG+FB · Reel «Tu bio\, contestando»
 DESCRIPTION:Reel «Tu bio\, contestando» · activa ManyChat para «DEMO»
-  — El vídeo con voz aparece en este enlace en cuanto me pases los mp3 
- y lo monte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4m
- vxrSD7aU (Semana 16–22 nov · Domingo 22)
+ \nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (S
+ emana 16–22 nov · Domingo 22)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -544,7 +536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-23@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261122T200000
 DTEND;TZID=Europe/Madrid:20261122T201500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -559,7 +551,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-24@citalvia.com
-DTSTAMP:20261112T094650Z
+DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261122T203000
 DTEND;TZID=Europe/Madrid:20261122T204500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
