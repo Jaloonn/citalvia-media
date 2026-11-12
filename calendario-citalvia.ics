@@ -176,7 +176,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-1@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261116T083000
 DTEND;TZID=Europe/Madrid:20261116T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
@@ -194,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-2@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261116T100000
 DTEND;TZID=Europe/Madrid:20261116T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -210,7 +210,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-3@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261116T193000
 DTEND;TZID=Europe/Madrid:20261116T194500
 SUMMARY:Citalvia · IG+FB · Reel «El mercado en 20 segundos»
@@ -227,7 +227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-4@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261116T210000
 DTEND;TZID=Europe/Madrid:20261116T211500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-5@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261117T100000
 DTEND;TZID=Europe/Madrid:20261117T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -259,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-6@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261117T130000
 DTEND;TZID=Europe/Madrid:20261117T131500
 SUMMARY:Citalvia · IG+FB · Carrusel «Lo que tu chat nunca debería pedi
@@ -277,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-7@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261117T190000
 DTEND;TZID=Europe/Madrid:20261117T191500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -293,7 +293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-8@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261118T083000
 DTEND;TZID=Europe/Madrid:20261118T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
@@ -311,7 +311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-9@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261118T100000
 DTEND;TZID=Europe/Madrid:20261118T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -327,7 +327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-10@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261118T190000
 DTEND;TZID=Europe/Madrid:20261118T191500
 SUMMARY:Citalvia · IG+FB + TikTok · Reel «De tu web a tu WhatsApp»
@@ -344,7 +344,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-11@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261119T100000
 DTEND;TZID=Europe/Madrid:20261119T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -360,7 +360,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-12@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261119T130000
 DTEND;TZID=Europe/Madrid:20261119T131500
 SUMMARY:Citalvia · IG+FB · Publicación «¿Qué te preguntan más por W
@@ -378,7 +378,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-13@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261119T190000
 DTEND;TZID=Europe/Madrid:20261119T191500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -394,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-14@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261119T193000
 DTEND;TZID=Europe/Madrid:20261119T194500
 SUMMARY:Citalvia · IG+FB · Reel «¿No tienes web? Te la hacemos»
@@ -411,7 +411,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-15@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261119T210000
 DTEND;TZID=Europe/Madrid:20261119T211500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -426,15 +426,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-16@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261120T083000
 DTEND;TZID=Europe/Madrid:20261120T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
-DESCRIPTION:LinkedIn · vídeo horizontal «¿Cuánto cuesta Citalvia?» 
- — Publícalo desde tu perfil personal\; después la página de Citalvia
-  lo comparte. El enlace funciona en cuanto monte la voz.\nArchivos y text
- os: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov
-  · Viernes 20)
+DESCRIPTION:LinkedIn · vídeo horizontal «Comentas DEMO» — Publícalo
+  desde tu perfil personal\; después la página de Citalvia lo comparte. 
+ El enlace funciona en cuanto monte la voz.\nArchivos y textos: https://cl
+ aude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20
+ )
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -444,25 +444,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-17@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261120T183000
 DTEND;TZID=Europe/Madrid:20261120T184500
-SUMMARY:Citalvia · IG+FB + TikTok · Reel «¿Cuánto cuesta Citalvia?»
-DESCRIPTION:Reel «¿Cuánto cuesta Citalvia?» · activa ManyChat para «
- DEMO» — El vídeo con voz aparece en este enlace en cuanto me pases lo
- s mp3 y lo monte.\nTikTok · mismo reel\nArchivos y textos: https://claud
- e.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
+SUMMARY:Citalvia · IG+FB + TikTok · Reel «Comentas DEMO»
+DESCRIPTION:Reel «Comentas DEMO» · activa ManyChat para «DEMO» — El
+  vídeo con voz aparece en este enlace en cuanto me pases los mp3 y lo mo
+ nte.\nTikTok · mismo reel\nArchivos y textos: https://claude.ai/artifact
+ /9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB + TikTok · Reel «¿Cuánto cuesta Citalvia
- ?»
+DESCRIPTION:Citalvia · IG+FB + TikTok · Reel «Comentas DEMO»
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-18@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261120T200000
 DTEND;TZID=Europe/Madrid:20261120T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -478,7 +477,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-19@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261121T120000
 DTEND;TZID=Europe/Madrid:20261121T121500
 SUMMARY:Citalvia · IG+FB · Carrusel «De "hola" a una ficha completa» (
@@ -496,7 +495,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-20@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261121T180000
 DTEND;TZID=Europe/Madrid:20261121T181500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -512,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-21@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261121T200000
 DTEND;TZID=Europe/Madrid:20261121T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
@@ -528,7 +527,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-22@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261122T193000
 DTEND;TZID=Europe/Madrid:20261122T194500
 SUMMARY:Citalvia · IG+FB · Reel «Tu bio\, contestando»
@@ -545,7 +544,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-23@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261122T200000
 DTEND;TZID=Europe/Madrid:20261122T201500
 SUMMARY:Citalvia · TikTok · TikTok
@@ -560,7 +559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-24@citalvia.com
-DTSTAMP:20261112T092527Z
+DTSTAMP:20261112T094650Z
 DTSTART;TZID=Europe/Madrid:20261122T203000
 DTEND;TZID=Europe/Madrid:20261122T204500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
