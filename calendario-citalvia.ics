@@ -30,12 +30,12 @@ DTSTAMP:20261109T153000Z
 DTSTART;TZID=Europe/Madrid:20261110T083000
 DTEND;TZID=Europe/Madrid:20261110T084500
 SUMMARY:LinkedIn · PDF «3 mitos sobre la IA»
-DESCRIPTION:Desde tu perfil personal: Añadir un documento, sube el PDF y
-  titúlalo «3 mitos sobre poner IA en tu compraventa». Luego compártel
- o desde la página de Citalvia.\nPDF: https://raw.githubusercontent.com/J
- aloonn/citalvia-media/main/2026-w46/mar10_linkedin_3_mitos.pdf\nTexto: ht
- tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 9–15 nov · Mar
- tes 10)
+DESCRIPTION:Desde tu perfil personal: Añadir un documento, sube el PDF y 
+ titúlalo «3 mitos sobre poner IA en tu compraventa». Luego compártelo
+  desde la página de Citalvia.\nPDF: https://raw.githubusercontent.com/Ja
+ loonn/citalvia-media/main/2026-w46/mar10_linkedin_3_mitos.pdf\nTexto: htt
+ ps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 9–15 nov · Mart
+ es 10)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -49,11 +49,11 @@ DTSTAMP:20261109T153000Z
 DTSTART;TZID=Europe/Madrid:20261111T083000
 DTEND;TZID=Europe/Madrid:20261111T084500
 SUMMARY:LinkedIn · vídeo «Lo que te piden y no tienes»
-DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el
-  texto. Luego compártelo desde la página de Citalvia.\nVídeo: https://
- raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/mie11_link
- edin_lo_que_piden_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCH
- k4mvxrSD7aU (Semana 9–15 nov · Miércoles 11)
+DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el 
+ texto. Luego compártelo desde la página de Citalvia.\nVídeo: https://r
+ aw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/mie11_linke
+ din_lo_que_piden_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk
+ 4mvxrSD7aU (Semana 9–15 nov · Miércoles 11)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -67,11 +67,11 @@ DTSTAMP:20261109T153000Z
 DTSTART;TZID=Europe/Madrid:20261113T083000
 DTEND;TZID=Europe/Madrid:20261113T084500
 SUMMARY:LinkedIn · vídeo «Directo a tu CRM»
-DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el
-  texto. Luego compártelo desde la página de Citalvia.\nVídeo: https://
- raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/vie13_link
- edin_crm_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7
- aU (Semana 9–15 nov · Viernes 13)
+DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el 
+ texto. Luego compártelo desde la página de Citalvia.\nVídeo: https://r
+ aw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/vie13_linke
+ din_crm_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7a
+ U (Semana 9–15 nov · Viernes 13)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -85,13 +85,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261111T100000
 DTEND;TZID=Europe/Madrid:20261111T101000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Pre
- guntas: «¿Qué coche te piden más?» → comparte también en Facebook
- .\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/
- 2026-w46/mie11_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D2
- BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w4
- 6/mie11_historia_v2.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Preg
+ untas: «¿Qué coche te piden más?» → comparte también en Facebook.
+ \nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2
+ 026-w46/mie11_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D2B
+ FmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
+ /mie11_historia_v2.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -104,13 +104,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261112T100000
 DTEND;TZID=Europe/Madrid:20261112T101000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Enc
- uesta: «Una y ya» / «Dos o más 💪» → comparte también en Facebo
- ok.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/mai
- n/2026-w46/jue12_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7
- D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w4
- 6/jue12_historia_v2.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Encu
+ esta: «Una y ya» / «Dos o más 💪» → comparte también en Faceboo
+ k.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main
+ /2026-w46/jue12_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D
+ 2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
+ /jue12_historia_v2.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -123,13 +123,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261113T200000
 DTEND;TZID=Europe/Madrid:20261113T201000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Enl
- ace: citalvia.com/demo · texto «Prueba la demo» → comparte también 
- en Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-
- media/main/2026-w46/vie13_historia.jpg\nPágina: https://claude.ai/artifa
- ct/9G7D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w4
- 6/vie13_historia.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Enla
+ ce: citalvia.com/demo · texto «Prueba la demo» → comparte también e
+ n Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-m
+ edia/main/2026-w46/vie13_historia.jpg\nPágina: https://claude.ai/artifac
+ t/9G7D2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
+ /vie13_historia.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -142,13 +142,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261114T200000
 DTEND;TZID=Europe/Madrid:20261114T201000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Pre
- guntas: «¿Qué coche te han preguntado más?» → comparte también en
-  Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-me
- dia/main/2026-w46/sab14_historia.jpg\nPágina: https://claude.ai/artifact
- /9G7D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w4
- 6/sab14_historia.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Preg
+ untas: «¿Qué coche te han preguntado más?» → comparte también en 
+ Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-med
+ ia/main/2026-w46/sab14_historia.jpg\nPágina: https://claude.ai/artifact/
+ 9G7D2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
+ /sab14_historia.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -161,13 +161,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261115T203000
 DTEND;TZID=Europe/Madrid:20261115T204000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Sin
-  sticker. Si alguien responde DEMO, contéstale por privado. → comparte
-  también en Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn
- /citalvia-media/main/2026-w46/dom15_historia_v2.jpg\nPágina: https://cla
- ude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w4
- 6/dom15_historia_v2.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Sin 
+ sticker. Si alguien responde DEMO, contéstale por privado. → comparte 
+ también en Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/
+ citalvia-media/main/2026-w46/dom15_historia_v2.jpg\nPágina: https://clau
+ de.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
+ /dom15_historia_v2.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -427,10 +427,8 @@ DTEND;TZID=Europe/Madrid:20261120T084500
 SUMMARY:Citalvia · LinkedIn · Primer concesionario (ya programado)
 DESCRIPTION:Ya lo tienes programado en LinkedIn. Al publicarse: pon el pri
  mer comentario «Si queréis verlo funcionando: automoviles-calcedo.es (b
- otón dorado\, abajo a la izquierda)» y contesta los comentarios duran
- te la primera hora. Si Raquel no ha dado el OK al nombre\, cambia el ag
- radecimiento a «este concesionario de Madrid» y no pongas el comentario
- .
+ otón dorado\, abajo a la izquierda)» y contesta los comentarios durante
+  la primera hora.
 URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
  /calcedo/li_vie_primer_concesionario.png
 BEGIN:VALARM
@@ -954,8 +952,8 @@ DTEND;TZID=Europe/Madrid:20261120T101500
 SUMMARY:Citalvia · IG+FB · Historia «Primer concesionario»
 DESCRIPTION:Historia https://raw.githubusercontent.com/Jaloonn/citalvia-me
  dia/main/2026-w48/calcedo/historia_vie_calcedo.png — Sticker → Enlace
- : https://www.automoviles-calcedo.es/ · texto «Pruébalo en su web». S
- olo si Raquel ha dado el OK al nombre y al logo.
+ : https://www.automoviles-calcedo.es/ · texto «Pruébalo en su web». R
+ aquel ha dado el OK al nombre y al logo.
 URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
  /calcedo/historia_vie_calcedo.png
 BEGIN:VALARM
@@ -1034,7 +1032,7 @@ DESCRIPTION:Si Raquel no ha contestado\, llamarla. 1) Horario de los sába
  es (llevan a Dealcar)\, título de la portada y de Contacto\, un WhatsApp
   por sede\, enlace a la web en coches.net Aranda\, mensaje de ausencia de
   WhatsApp. 3) ¿Han puesto los QR en los coches? Pedirles fotos para rede
- s. 4) ¿OK al logo en citalvia.com? Entonces desplegar.
+ s.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
