@@ -1151,4 +1151,21 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · Revisar SEO
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-wa-plantilla-20261120@citalvia.com
+DTSTAMP:20261119T211000Z
+DTSTART;TZID=Europe/Madrid:20261120T103000
+DTEND;TZID=Europe/Madrid:20261120T104500
+SUMMARY:Citalvia · WhatsApp · ¿solicitud_nueva ya está «Activa»?
+DESCRIPTION:Mirar en WhatsApp Manager > Administrar plantillas. Si está A
+ ctiva: decírselo a Claude y hacer la prueba del aviso con Rivero. Despu
+ és: quitar avisos_whatsapp de rivero-motor\, borrar el lead de prueba y 
+ borrar nuevo_interesado (marketing) para que se vaya el aviso. Si sigue E
+ n revisión: no apelar nada\\, volver a mirar al día siguiente.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · WhatsApp · ¿solicitud_nueva ya está «Activa»?
+END:VALARM
+END:VEVENT
 END:VCALENDAR
