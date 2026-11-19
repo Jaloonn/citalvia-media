@@ -1161,7 +1161,7 @@ DESCRIPTION:Mirar en WhatsApp Manager > Administrar plantillas. Si está A
  ctiva: decírselo a Claude y hacer la prueba del aviso con Rivero. Despu
  és: quitar avisos_whatsapp de rivero-motor\, borrar el lead de prueba y 
  borrar nuevo_interesado (marketing) para que se vaya el aviso. Si sigue E
- n revisión: no apelar nada\\, volver a mirar al día siguiente.
+ n revisión: no apelar nada\, volver a mirar al día siguiente.
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
