@@ -566,4 +566,381 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-1@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261123T100000
+DTEND;TZID=Europe/Madrid:20261123T101500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Ca
+ si siempre» / «Pocas veces»\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lunes 23)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-2@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261123T193000
+DTEND;TZID=Europe/Madrid:20261123T194500
+SUMMARY:Citalvia · IG+FB · Reel «La pregunta de una compraventa»
+DESCRIPTION:Reel «La pregunta de una compraventa»\nArchivos y textos: ht
+ tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lu
+ nes 23)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Reel «La pregunta de una compraventa»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-3@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261123T210000
+DTEND;TZID=Europe/Madrid:20261123T211500
+SUMMARY:Citalvia · TikTok · TikTok
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
+ ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lunes 23)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · TikTok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-4@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261124T083000
+DTEND;TZID=Europe/Madrid:20261124T084500
+SUMMARY:Citalvia · LinkedIn · LinkedIn
+DESCRIPTION:LinkedIn · texto + imagen «La pregunta» — Publícalo desd
+ e tu perfil personal\; después la página de Citalvia lo comparte.\nArch
+ ivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 
+ 23–29 nov · Martes 24)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · LinkedIn · LinkedIn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-5@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261124T100000
+DTEND;TZID=Europe/Madrid:20261124T101500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Cuenta atrás:
+  «Black Friday» (viernes 27 de noviembre\, 00:00)\nArchivos y textos: h
+ ttps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · M
+ artes 24)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-6@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261124T130000
+DTEND;TZID=Europe/Madrid:20261124T131500
+SUMMARY:Citalvia · IG+FB · Carrusel «5 datos que tu anuncio debería ll
+ evar» (7 imágenes)
+DESCRIPTION:Carrusel «5 datos que tu anuncio debería llevar» (7 imágen
+ es)\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+  (Semana 23–29 nov · Martes 24)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Carrusel «5 datos que tu anuncio deberí
+ a llevar» (7 imágenes)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-7@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261124T190000
+DTEND;TZID=Europe/Madrid:20261124T191500
+SUMMARY:Citalvia · TikTok · TikTok
+DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «5 datos que 
+ tu anuncio debería llevar»\nArchivos y textos: https://claude.ai/artifa
+ ct/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Martes 24)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · TikTok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-8@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261125T100000
+DTEND;TZID=Europe/Madrid:20261125T101500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Preguntas: «C
+ uéntame»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mv
+ xrSD7aU (Semana 23–29 nov · Miércoles 25)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-9@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261125T190000
+DTEND;TZID=Europe/Madrid:20261125T191500
+SUMMARY:Citalvia · IG+FB + TikTok · Reel «En obras: Citalvia en WhatsAp
+ p»
+DESCRIPTION:Reel «En obras: Citalvia en WhatsApp»\nTikTok · mismo reel\
+ nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Se
+ mana 23–29 nov · Miércoles 25)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB + TikTok · Reel «En obras: Citalvia en Wha
+ tsApp»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-10@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261126T083000
+DTEND;TZID=Europe/Madrid:20261126T084500
+SUMMARY:Citalvia · LinkedIn · LinkedIn
+DESCRIPTION:LinkedIn · documento PDF «5 cosas que he aprendido llamando 
+ a compraventas» — Publícalo desde tu perfil personal\; después la p
+ ágina de Citalvia lo comparte. Súbelo como documento (Añadir documento
+  → PDF) y ponle de título «5 cosas que he aprendido llamando a compra
+ ventas».\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvx
+ rSD7aU (Semana 23–29 nov · Jueves 26)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · LinkedIn · LinkedIn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-11@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261126T100000
+DTEND;TZID=Europe/Madrid:20261126T101500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Deslizador con
+  emoji 😅\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4m
+ vxrSD7aU (Semana 23–29 nov · Jueves 26)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-12@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261126T130000
+DTEND;TZID=Europe/Madrid:20261126T131500
+SUMMARY:Citalvia · IG+FB · Carrusel «¿Cuál es el último precio?» (7
+  imágenes)
+DESCRIPTION:Carrusel «¿Cuál es el último precio?» (7 imágenes)\nArch
+ ivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 
+ 23–29 nov · Jueves 26)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Carrusel «¿Cuál es el último precio?
+ » (7 imágenes)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-13@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261126T190000
+DTEND;TZID=Europe/Madrid:20261126T191500
+SUMMARY:Citalvia · TikTok · TikTok
+DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «¿Cuál es e
+ l último precio?»\nArchivos y textos: https://claude.ai/artifact/9G7D2B
+ FmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · TikTok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-14@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261126T193000
+DTEND;TZID=Europe/Madrid:20261126T194500
+SUMMARY:Citalvia · IG+FB · Reel «Una línea»
+DESCRIPTION:Reel «Una línea»\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Reel «Una línea»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-15@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261126T210000
+DTEND;TZID=Europe/Madrid:20261126T211500
+SUMMARY:Citalvia · TikTok · TikTok
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
+ ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · TikTok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-16@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261127T183000
+DTEND;TZID=Europe/Madrid:20261127T184500
+SUMMARY:Citalvia · IG+FB + TikTok · Reel «Black Friday sin trucos»
+DESCRIPTION:Reel «Black Friday sin trucos» · activa ManyChat para «DEM
+ O»\nTikTok · mismo reel\nArchivos y textos: https://claude.ai/artifact/
+ 9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Viernes 27)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB + TikTok · Reel «Black Friday sin trucos»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-17@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261127T200000
+DTEND;TZID=Europe/Madrid:20261127T201500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Enlace: citalv
+ ia.com/demo · texto «Prueba la demo»\nArchivos y textos: https://claud
+ e.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Viernes 27)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-18@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261128T120000
+DTEND;TZID=Europe/Madrid:20261128T121500
+SUMMARY:Citalvia · IG+FB · Publicación «¿Habéis notado el Black Frid
+ ay?»
+DESCRIPTION:Publicación «¿Habéis notado el Black Friday?»\nArchivos y
+  textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–2
+ 9 nov · Sábado 28)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Publicación «¿Habéis notado el Black 
+ Friday?»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-19@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261128T180000
+DTEND;TZID=Europe/Madrid:20261128T181500
+SUMMARY:Citalvia · TikTok · TikTok
+DESCRIPTION:TikTok · misma imagen (modo foto) · título «¿Habéis nota
+ do el Black Friday?»\nArchivos y textos: https://claude.ai/artifact/9G7D
+ 2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Sábado 28)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · TikTok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-20@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261128T200000
+DTEND;TZID=Europe/Madrid:20261128T201500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Quiz: «7» / 
+ «14» (correcta) / «30»\nArchivos y textos: https://claude.ai/artifact
+ /9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Sábado 28)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-21@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261129T193000
+DTEND;TZID=Europe/Madrid:20261129T194500
+SUMMARY:Citalvia · IG+FB · Reel «Un comprador\, tres compraventas»
+DESCRIPTION:Reel «Un comprador\, tres compraventas» · activa ManyChat p
+ ara «DEMO»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4
+ mvxrSD7aU (Semana 23–29 nov · Domingo 29)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Reel «Un comprador\, tres compraventas»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-22@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261129T200000
+DTEND;TZID=Europe/Madrid:20261129T201500
+SUMMARY:Citalvia · TikTok · TikTok
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
+ ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Domingo 29)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · TikTok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-w48-23@citalvia.com
+DTSTAMP:20261119T102723Z
+DTSTART;TZID=Europe/Madrid:20261129T203000
+DTEND;TZID=Europe/Madrid:20261129T204500
+SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Al
+  momento ⚡» / «El lunes 😬»\nArchivos y textos: https://claude.ai/
+ artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Domingo 29)
+URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
