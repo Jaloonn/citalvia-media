@@ -1135,4 +1135,20 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · Calcedo · Cerrar la prueba (sigue o se desactiva)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-seo-revision-20261219@citalvia.com
+DTSTAMP:20261119T170000Z
+DTSTART;TZID=Europe/Madrid:20261219T110000
+DTEND;TZID=Europe/Madrid:20261219T113000
+SUMMARY:Citalvia · Revisar SEO (30 días)
+DESCRIPTION:Search Console y Bing Webmaster: ¿páginas indexadas?\, ¿por
+  qué búsquedas aparece citalvia.com? Buscar «Citalvia» y «chat con I
+ A para compraventas» en Google\, Bing y ChatGPT y apuntar qué sale. Ped
+ irle a Claude la segunda revisión.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Revisar SEO
+END:VALARM
+END:VEVENT
 END:VCALENDAR
