@@ -421,19 +421,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-w47-16@citalvia.com
-DTSTAMP:20261112T154645Z
+DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261120T083000
 DTEND;TZID=Europe/Madrid:20261120T084500
-SUMMARY:Citalvia · LinkedIn · LinkedIn
-DESCRIPTION:LinkedIn · vídeo horizontal «Comentas DEMO» — Publícalo
-  desde tu perfil personal\; después la página de Citalvia lo comparte.\
- nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Se
- mana 16–22 nov · Viernes 20)
-URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+SUMMARY:Citalvia · LinkedIn · Primer concesionario (ya programado)
+DESCRIPTION:Ya lo tienes programado en LinkedIn. Al publicarse: pon el pri
+ mer comentario «Si queréis verlo funcionando: automoviles-calcedo.es (b
+ otón dorado\\\, abajo a la izquierda)» y contesta los comentarios duran
+ te la primera hora. Si Raquel no ha dado el OK al nombre\\\, cambia el ag
+ radecimiento a «este concesionario de Madrid» y no pongas el comentario
+ .
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
+ /calcedo/li_vie_primer_concesionario.png
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · LinkedIn · LinkedIn
+DESCRIPTION:Citalvia · LinkedIn · Primer concesionario (ya programado)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -941,6 +944,197 @@ BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Citalvia · IG+FB · Historia (Instagram + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-hist-20261120@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261120T100000
+DTEND;TZID=Europe/Madrid:20261120T101500
+SUMMARY:Citalvia · IG+FB · Historia «Primer concesionario»
+DESCRIPTION:Historia https://raw.githubusercontent.com/Jaloonn/citalvia-me
+ dia/main/2026-w48/calcedo/historia_vie_calcedo.png — Sticker → Enlace
+ : https://www.automoviles-calcedo.es/ · texto «Pruébalo en su web». S
+ olo si Raquel ha dado el OK al nombre y al logo.
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
+ /calcedo/historia_vie_calcedo.png
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Historia «Primer concesionario»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-carr-20261125@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261125T130000
+DTEND;TZID=Europe/Madrid:20261125T131500
+SUMMARY:Citalvia · IG+FB · Carrusel «Un QR en el parabrisas» (5 imáge
+ nes)
+DESCRIPTION:Carrusel 4:5\, 5 imágenes: https://raw.githubusercontent.com/
+ Jaloonn/citalvia-media/main/2026-w48/calcedo/C_qr_1.jpg … C_qr_5.jpg\nT
+ exto IG/FB:\nDomingo\, 21:40. La tienda\, cerrada. Y el coche\, contestan
+ do 👇\nCon nuestro primer concesionario\, Automóviles Calcedo\, hemos 
+ puesto un QR en el parabrisas de cada coche. Quien pasa por delante lo es
+ canea\, ve la ficha en su web y pregunta lo que quiera\, a cualquier hora
+ .\n67 coches\, 67 QR.\n👉 ¿Tienes una compraventa? Comenta DEMO y te p
+ reparo una con tus propios coches.\n#compraventacoches #concesionario #co
+ chesdeocasion #qr
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
+ /calcedo/C_qr_1.jpg
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IG+FB · Carrusel «Un QR en el parabrisas» (5 im
+ ágenes)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-tt-20261125@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261125T210000
+DTEND;TZID=Europe/Madrid:20261125T211500
+SUMMARY:Citalvia · TikTok · Modo foto «Un QR en el parabrisas»
+DESCRIPTION:TikTok en modo foto con las 5 imágenes https://raw.githubuser
+ content.com/Jaloonn/citalvia-media/main/2026-w48/calcedo/C_qr_1.jpg … C
+ _qr_5.jpg (música automática).\nTexto TikTok:\nTienda cerrada\, coche c
+ ontestando 🚗 Un QR en cada parabrisas con nuestro primer concesionario
+ .\n👉 ¿Tienes una compraventa? Comenta DEMO y te preparo una con tus p
+ ropios coches.\n#compraventacoches #vendercoches #concesionario #qr
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
+ /calcedo/C_qr_1.jpg
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · TikTok · Modo foto «Un QR en el parabrisas»
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-prueba-20261119@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:Citalvia · Calcedo · Prueba de 14 días (19/11–2/12)
+DESCRIPTION:Prueba gratuita de Automóviles Calcedo. Contacto: Raquel Sán
+ chez (automovilescalcedo@hotmail.com) y Enrique Calcedo (661 38 34 82). D
+ ocumentos firmados en Drive: CITALVIA / Clientes / Automóviles Calcedo. 
+ Al terminar: plan Profesional 299 € + IVA/mes (o el año en 10 cuotas)\
+ , sin piloto de pago.
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-sab-20261121@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261121T103000
+DTEND;TZID=Europe/Madrid:20261121T104500
+SUMMARY:Citalvia · Calcedo · ¿Han contestado lo de los sábados y la we
+ b?
+DESCRIPTION:Si Raquel no ha contestado\, llamarla. 1) Horario de los sába
+ dos (ajustarlo en el chat). 2) Cambios para más tráfico: botones de red
+ es (llevan a Dealcar)\, título de la portada y de Contacto\, un WhatsApp
+  por sede\, enlace a la web en coches.net Aranda\, mensaje de ausencia de
+  WhatsApp. 3) ¿Han puesto los QR en los coches? Pedirles fotos para rede
+ s. 4) ¿OK al logo en citalvia.com? Entonces desplegar.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · ¿Han contestado lo de los sábados y l
+ a web?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-rev-20261123@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261123T180000
+DTEND;TZID=Europe/Madrid:20261123T183000
+SUMMARY:Citalvia · Calcedo · Revisar conversaciones de la primera semana
+DESCRIPTION:En el panel de operador: conversaciones de Calcedo\, avisos de
+  fallos y respuestas a corregir. Preparar 2-3 datos para la llamada del 2
+ 6/11. https://www.citalvia.com/panel/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · Revisar conversaciones de la primera se
+ mana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-inf1-20261125@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261125T180000
+DTEND;TZID=Europe/Madrid:20261125T183000
+SUMMARY:Citalvia · Calcedo · Preparar el informe semanal
+DESCRIPTION:Panel → Informes → «Preparar informe semanal» (PDF). Mir
+ ar: conversaciones\, interesados\, fuera de horario y de dónde llegan (Q
+ R\, Google\, Instagram…).
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · Preparar el informe semanal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-ll7-20261126@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261126T110000
+DTEND;TZID=Europe/Madrid:20261126T111500
+SUMMARY:Citalvia · Calcedo · Llamada del día 7 (10 min)
+DESCRIPTION:Llamar a Raquel (o a Enrique\, 661 38 34 82). Repasar el infor
+ me semanal\, qué fichas han llegado y si las han llamado\, respuestas a 
+ mejorar\, sábados\, QR y cambios de la web. Preguntar qué les está par
+ eciendo.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · Llamada del día 7 (10 min)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-inff-20261201@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261201T180000
+DTEND;TZID=Europe/Madrid:20261201T184500
+SUMMARY:Citalvia · Calcedo · Preparar el informe final y la propuesta
+DESCRIPTION:Panel → Informes → «Informe final de la prueba (14 días)
+ ». Propuesta: plan Profesional 299 € + IVA/mes\, o el año en 10 cuota
+ s\; seguir solo con su aceptación por escrito. Si ha ido bien\, volver a
+  pedir el caso de estudio (dijeron que no) y una frase suya.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · Preparar el informe final y la propuest
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-ll14-20261202@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261202T110000
+DTEND;TZID=Europe/Madrid:20261202T113000
+SUMMARY:Citalvia · Calcedo · Llamada de fin de prueba (día 14)
+DESCRIPTION:Repasar el informe final y preguntar si quieren seguir con el 
+ plan Profesional (299 € + IVA/mes). Si sí: aceptación por escrito y s
+ eguir sin cortes. Si no: desactivar el asistente.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · Llamada de fin de prueba (día 14)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-fin-20261203@citalvia.com
+DTSTAMP:20261119T150000Z
+DTSTART;TZID=Europe/Madrid:20261203T100000
+DTEND;TZID=Europe/Madrid:20261203T101500
+SUMMARY:Citalvia · Calcedo · Cerrar la prueba (sigue o se desactiva)
+DESCRIPTION:Si siguen: confirmación por escrito\, pasar a cliente en Noti
+ on y en el chat. Si no: chat en pausa\, cambiar Notion\, quitar su nombre
+  y logo de citalvia.com y de las frases de venta\, y apuntar el 2/1/2027 
+ para borrar sus datos (30 días para exportar\, según el DPA).
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo · Cerrar la prueba (sigue o se desactiva)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
