@@ -1185,4 +1185,20 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · Rivero Motor
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-token-cron-20271113@citalvia.com
+DTSTAMP:20261120T152500Z
+DTSTART;TZID=Europe/Madrid:20271113T103000
+DTEND;TZID=Europe/Madrid:20271113T110000
+SUMMARY:Citalvia · Renovar el token de GitHub del stock automático
+DESCRIPTION:El token de GitHub citalvia-cron caduca hacia el 20/11/2027. C
+ rear uno nuevo igual (solo Jaloonn/citalvia-web\, Actions: Read and write)
+  y volver a ejecutar programar-stock.ps1. Si caduca\, el stock solo se act
+ ualiza 2 veces al día.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Renovar token citalvia-cron
+END:VALARM
+END:VEVENT
 END:VCALENDAR
