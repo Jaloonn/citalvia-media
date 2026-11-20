@@ -1168,4 +1168,21 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · WhatsApp · ¿solicitud_nueva ya está «Activa»?
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-rivero-seguimiento-20261123@citalvia.com
+DTSTAMP:20261120T080000Z
+DTSTART;TZID=Europe/Madrid:20261123T103000
+DTEND;TZID=Europe/Madrid:20261123T104500
+SUMMARY:Citalvia · Rivero Motor · Escribirle (¿lo ha hablado con su com
+ pañero?)
+DESCRIPTION:Se le dejó el fin de semana para pensarlo. Pedir a Claude el 
+ mensaje (si ha hablado con su compañero + respuesta a lo de propietarios 
+ y accidentes) y enviarlo por WhatsApp. Si acepta la prueba: condiciones + 
+ DPA (en Drive)\, instrucciones de Dealcar y pedir email para los avisos.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Rivero Motor
+END:VALARM
+END:VEVENT
 END:VCALENDAR
