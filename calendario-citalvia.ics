@@ -1201,4 +1201,39 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · Renovar token citalvia-cron
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-ithreeex-20261130@citalvia.com
+DTSTAMP:20261126T143000Z
+DTSTART;TZID=Europe/Madrid:20261130T100000
+DTEND;TZID=Europe/Madrid:20261130T103000
+SUMMARY:Citalvia · Videollamada con IThreeex (Carolina Chemino) · ABLE
+DESCRIPTION:Videollamada de 30 min por Google Meet con Carolina Chemino (IT
+ hreeex)\, que contactó por LinkedIn. El enlace del Meet llegará a hola@c
+ italvia.com.\nQué proponen: IThreeex tiene ABLE\, un sistema operativo co
+ n el que crean plataformas agénticas\, cada una junto a un partner especi
+ alizado en su vertical. Quieren mapear una plataforma conjunta con ABLE co
+ mo base\, para usarla en nuestros procesos o para ofrecerla a nuestros cli
+ entes.\nAntes de la llamada: pedir a Claude un guion con preguntas (modelo
+  de negocio y reparto\, quién es dueño de qué\, exclusividad\, costes\,
+  datos de los clientes y RGPD\, qué ganan ellos) y repasar qué no se pue
+ de contar (nombres de clientes ni casos sin permiso).\nNo firmar ni compro
+ meter nada en la llamada: escuchar\, preguntar y quedar en una segunda reu
+ nión con propuesta por escrito.
+LOCATION:Google Meet (enlace en hola@citalvia.com)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Mañana 10:00 IThreeex: pedir a Claude el guion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IThreeex en 30 min: ¿ha llegado el Meet?
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · IThreeex ahora
+END:VALARM
+END:VEVENT
 END:VCALENDAR
