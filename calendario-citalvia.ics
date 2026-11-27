@@ -1236,4 +1236,35 @@ ACTION:DISPLAY
 DESCRIPTION:Citalvia · IThreeex ahora
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:citalvia-calcedo-regla-20261130@citalvia.com
+DTSTAMP:20261127T150000Z
+DTSTART;TZID=Europe/Madrid:20261130T110000
+DTEND;TZID=Europe/Madrid:20261130T111500
+SUMMARY:Citalvia · Calcedo: crear la regla de Outlook juntos (videollamada
+ )
+DESCRIPTION:Raquel (Automóviles Calcedo) dijo el viernes «Vale\, lo hacem
+ os el lunes». Escribirle por WhatsApp (661 383 482) a primera hora para f
+ ijar la hora de una videollamada de 5 min.\nEn la llamada: en su Outlook (
+ automovilescalcedo@hotmail.com) crear la regla «si el remitente contiene 
+ coches.net → Redirigir a» su buzón de Citalvia (la dirección calcedo-
+ d1k7uqad@… que va en el email que les mandamos). Probar reenviando un av
+ iso real y comprobar que les llega el aviso con la respuesta preparada.\nA
+ viso por WhatsApp: lo quieren al 661 383 482. Antes de activarlo (demos/sq
+ l/calcedo-avisos-wa.sql) comprobar que la plantilla «nuevo_interesado» e
+ stá aprobada en Meta.\nLes llegan unos 70 contactos de coches.net a la se
+ mana. Valoración final el miércoles 2/12.
+LOCATION:WhatsApp / videollamada con Raquel (661 383 482)
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Escribir a Raquel (Calcedo) para fijar la hora de l
+ a regla de Outlook
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Citalvia · Calcedo regla de Outlook en 10 min
+END:VALARM
+END:VEVENT
 END:VCALENDAR
