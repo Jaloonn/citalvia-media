@@ -30,12 +30,12 @@ DTSTAMP:20261109T153000Z
 DTSTART;TZID=Europe/Madrid:20261110T083000
 DTEND;TZID=Europe/Madrid:20261110T084500
 SUMMARY:LinkedIn · PDF «3 mitos sobre la IA»
-DESCRIPTION:Desde tu perfil personal: Añadir un documento, sube el PDF y 
- titúlalo «3 mitos sobre poner IA en tu compraventa». Luego compártelo
-  desde la página de Citalvia.\nPDF: https://raw.githubusercontent.com/Ja
- loonn/citalvia-media/main/2026-w46/mar10_linkedin_3_mitos.pdf\nTexto: htt
- ps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 9–15 nov · Mart
- es 10)
+DESCRIPTION:Desde tu perfil personal: Añadir un documento, sube el PDF y t
+ itúlalo «3 mitos sobre poner IA en tu compraventa». Luego compártelo d
+ esde la página de Citalvia.\nPDF: https://raw.githubusercontent.com/Jaloo
+ nn/citalvia-media/main/2026-w46/mar10_linkedin_3_mitos.pdf\nTexto: https:/
+ /claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 9–15 nov · Martes 10
+ )
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -49,11 +49,11 @@ DTSTAMP:20261109T153000Z
 DTSTART;TZID=Europe/Madrid:20261111T083000
 DTEND;TZID=Europe/Madrid:20261111T084500
 SUMMARY:LinkedIn · vídeo «Lo que te piden y no tienes»
-DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el 
- texto. Luego compártelo desde la página de Citalvia.\nVídeo: https://r
- aw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/mie11_linke
- din_lo_que_piden_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk
- 4mvxrSD7aU (Semana 9–15 nov · Miércoles 11)
+DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el t
+ exto. Luego compártelo desde la página de Citalvia.\nVídeo: https://raw
+ .githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/mie11_linkedin
+ _lo_que_piden_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk4mvx
+ rSD7aU (Semana 9–15 nov · Miércoles 11)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -67,11 +67,11 @@ DTSTAMP:20261109T153000Z
 DTSTART;TZID=Europe/Madrid:20261113T083000
 DTEND;TZID=Europe/Madrid:20261113T084500
 SUMMARY:LinkedIn · vídeo «Directo a tu CRM»
-DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el 
- texto. Luego compártelo desde la página de Citalvia.\nVídeo: https://r
- aw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/vie13_linke
- din_crm_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7a
- U (Semana 9–15 nov · Viernes 13)
+DESCRIPTION:Desde tu perfil personal: sube el vídeo horizontal y pega el t
+ exto. Luego compártelo desde la página de Citalvia.\nVídeo: https://raw
+ .githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/vie13_linkedin
+ _crm_16x9.mp4\nTexto: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (S
+ emana 9–15 nov · Viernes 13)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -85,13 +85,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261111T100000
 DTEND;TZID=Europe/Madrid:20261111T101000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Preg
- untas: «¿Qué coche te piden más?» → comparte también en Facebook.
- \nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2
- 026-w46/mie11_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D2B
- FmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
- /mie11_historia_v2.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Pregu
+ ntas: «¿Qué coche te piden más?» → comparte también en Facebook.\n
+ Imagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026
+ -w46/mie11_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D2BFmtC
+ Hk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/
+ mie11_historia_v2.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -104,13 +104,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261112T100000
 DTEND;TZID=Europe/Madrid:20261112T101000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Encu
- esta: «Una y ya» / «Dos o más 💪» → comparte también en Faceboo
- k.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main
- /2026-w46/jue12_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D
- 2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
- /jue12_historia_v2.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Encue
+ sta: «Una y ya» / «Dos o más 💪» → comparte también en Facebook.
+ \nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/20
+ 26-w46/jue12_historia_v2.jpg\nPágina: https://claude.ai/artifact/9G7D2BFm
+ tCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/
+ jue12_historia_v2.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -123,13 +123,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261113T200000
 DTEND;TZID=Europe/Madrid:20261113T201000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Enla
- ce: citalvia.com/demo · texto «Prueba la demo» → comparte también e
- n Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-m
- edia/main/2026-w46/vie13_historia.jpg\nPágina: https://claude.ai/artifac
- t/9G7D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
- /vie13_historia.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Enlac
+ e: citalvia.com/demo · texto «Prueba la demo» → comparte también en 
+ Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-medi
+ a/main/2026-w46/vie13_historia.jpg\nPágina: https://claude.ai/artifact/9G
+ 7D2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/
+ vie13_historia.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -142,13 +142,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261114T200000
 DTEND;TZID=Europe/Madrid:20261114T201000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Preg
- untas: «¿Qué coche te han preguntado más?» → comparte también en 
- Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-med
- ia/main/2026-w46/sab14_historia.jpg\nPágina: https://claude.ai/artifact/
- 9G7D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
- /sab14_historia.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Pregu
+ ntas: «¿Qué coche te han preguntado más?» → comparte también en Fa
+ cebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/citalvia-media/
+ main/2026-w46/sab14_historia.jpg\nPágina: https://claude.ai/artifact/9G7D
+ 2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/
+ sab14_historia.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -161,13 +161,13 @@ DTSTAMP:20261110T204500Z
 DTSTART;TZID=Europe/Madrid:20261115T203000
 DTEND;TZID=Europe/Madrid:20261115T204000
 SUMMARY:Historia Citalvia (Instagram + Facebook)
-DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Sin 
- sticker. Si alguien responde DEMO, contéstale por privado. → comparte 
- también en Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/
- citalvia-media/main/2026-w46/dom15_historia_v2.jpg\nPágina: https://clau
- de.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46
- /dom15_historia_v2.jpg
+DESCRIPTION:Instagram → Tu historia → sube la imagen → sticker: Sin s
+ ticker. Si alguien responde DEMO, contéstale por privado. → comparte ta
+ mbién en Facebook.\nImagen: https://raw.githubusercontent.com/Jaloonn/cit
+ alvia-media/main/2026-w46/dom15_historia_v2.jpg\nPágina: https://claude.a
+ i/artifact/9G7D2BFmtCHk4mvxrSD7aU
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w46/
+ dom15_historia_v2.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -180,10 +180,10 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T083000
 DTEND;TZID=Europe/Madrid:20261116T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
-DESCRIPTION:LinkedIn · vídeo horizontal «El mercado en 20 segundos» 
- — Publícalo desde tu perfil personal\; después la página de Citalvia
-  lo comparte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk
- 4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
+DESCRIPTION:LinkedIn · vídeo horizontal «El mercado en 20 segundos» —
+  Publícalo desde tu perfil personal\; después la página de Citalvia lo 
+ comparte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxr
+ SD7aU (Semana 16–22 nov · Lunes 16)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -197,9 +197,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T100000
 DTEND;TZID=Europe/Madrid:20261116T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «M
- ás 📈» / «Menos 📉»\nArchivos y textos: https://claude.ai/artifac
- t/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Má
+ s 📈» / «Menos 📉»\nArchivos y textos: https://claude.ai/artifact/9
+ G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -213,9 +213,8 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T193000
 DTEND;TZID=Europe/Madrid:20261116T194500
 SUMMARY:Citalvia · IG+FB · Reel «El mercado en 20 segundos»
-DESCRIPTION:Reel «El mercado en 20 segundos»\nArchivos y textos: https:/
- /claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 1
- 6)
+DESCRIPTION:Reel «El mercado en 20 segundos»\nArchivos y textos: https://
+ claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -229,8 +228,8 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261116T210000
 DTEND;TZID=Europe/Madrid:20261116T211500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
- ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Lunes 16)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -244,10 +243,10 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261117T100000
 DTEND;TZID=Europe/Madrid:20261117T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Quiz: «Su nom
- bre» / «Su DNI» (correcta) / «Qué coche busca»\nArchivos y textos: 
- https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · 
- Martes 17)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Quiz: «Su nomb
+ re» / «Su DNI» (correcta) / «Qué coche busca»\nArchivos y textos: ht
+ tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Mar
+ tes 17)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -260,17 +259,17 @@ UID:citalvia-w47-6@citalvia.com
 DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261117T130000
 DTEND;TZID=Europe/Madrid:20261117T131500
-SUMMARY:Citalvia · IG+FB · Carrusel «Lo que tu chat nunca debería pedi
- r» (7 imágenes)
-DESCRIPTION:Carrusel «Lo que tu chat nunca debería pedir» (7 imágenes)
- \nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (S
- emana 16–22 nov · Martes 17)
+SUMMARY:Citalvia · IG+FB · Carrusel «Lo que tu chat nunca debería pedir
+ » (7 imágenes)
+DESCRIPTION:Carrusel «Lo que tu chat nunca debería pedir» (7 imágenes)\
+ nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Sem
+ ana 16–22 nov · Martes 17)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB · Carrusel «Lo que tu chat nunca debería 
- pedir» (7 imágenes)
+DESCRIPTION:Citalvia · IG+FB · Carrusel «Lo que tu chat nunca debería p
+ edir» (7 imágenes)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -279,9 +278,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261117T190000
 DTEND;TZID=Europe/Madrid:20261117T191500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «Lo que tu ch
- at nunca debería pedir»\nArchivos y textos: https://claude.ai/artifact/
- 9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Martes 17)
+DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «Lo que tu cha
+ t nunca debería pedir»\nArchivos y textos: https://claude.ai/artifact/9G
+ 7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Martes 17)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -295,10 +294,10 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261118T083000
 DTEND;TZID=Europe/Madrid:20261118T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
-DESCRIPTION:LinkedIn · vídeo horizontal «De tu web a tu WhatsApp» — 
- Publícalo desde tu perfil personal\; después la página de Citalvia lo 
- comparte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvx
- rSD7aU (Semana 16–22 nov · Miércoles 18)
+DESCRIPTION:LinkedIn · vídeo horizontal «De tu web a tu WhatsApp» — P
+ ublícalo desde tu perfil personal\; después la página de Citalvia lo co
+ mparte.\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD
+ 7aU (Semana 16–22 nov · Miércoles 18)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -312,9 +311,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261118T100000
 DTEND;TZID=Europe/Madrid:20261118T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Po
- r la web» / «Por WhatsApp»\nArchivos y textos: https://claude.ai/artif
- act/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Miércoles 18)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Por
+  la web» / «Por WhatsApp»\nArchivos y textos: https://claude.ai/artifac
+ t/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Miércoles 18)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -328,8 +327,8 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261118T190000
 DTEND;TZID=Europe/Madrid:20261118T191500
 SUMMARY:Citalvia · IG+FB + TikTok · Reel «De tu web a tu WhatsApp»
-DESCRIPTION:Reel «De tu web a tu WhatsApp»\nTikTok · mismo reel\nArchiv
- os y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16
+DESCRIPTION:Reel «De tu web a tu WhatsApp»\nTikTok · mismo reel\nArchivo
+ s y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16
  –22 nov · Miércoles 18)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
@@ -344,9 +343,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T100000
 DTEND;TZID=Europe/Madrid:20261119T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Te
- ngo web 👍» / «Solo portales»\nArchivos y textos: https://claude.ai/
- artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Jueves 19)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Ten
+ go web 👍» / «Solo portales»\nArchivos y textos: https://claude.ai/ar
+ tifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Jueves 19)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -359,17 +358,17 @@ UID:citalvia-w47-12@citalvia.com
 DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T130000
 DTEND;TZID=Europe/Madrid:20261119T131500
-SUMMARY:Citalvia · IG+FB · Publicación «¿Qué te preguntan más por W
- hatsApp?»
-DESCRIPTION:Publicación «¿Qué te preguntan más por WhatsApp?»\nArchi
- vos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 1
- 6–22 nov · Jueves 19)
+SUMMARY:Citalvia · IG+FB · Publicación «¿Qué te preguntan más por Wh
+ atsApp?»
+DESCRIPTION:Publicación «¿Qué te preguntan más por WhatsApp?»\nArchiv
+ os y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16
+ –22 nov · Jueves 19)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB · Publicación «¿Qué te preguntan más p
- or WhatsApp?»
+DESCRIPTION:Citalvia · IG+FB · Publicación «¿Qué te preguntan más po
+ r WhatsApp?»
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -378,9 +377,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T190000
 DTEND;TZID=Europe/Madrid:20261119T191500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · misma imagen (modo foto) · título «¿Qué te preg
- untan más por WhatsApp?»\nArchivos y textos: https://claude.ai/artifact
- /9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Jueves 19)
+DESCRIPTION:TikTok · misma imagen (modo foto) · título «¿Qué te pregu
+ ntan más por WhatsApp?»\nArchivos y textos: https://claude.ai/artifact/9
+ G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Jueves 19)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -394,9 +393,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T193000
 DTEND;TZID=Europe/Madrid:20261119T194500
 SUMMARY:Citalvia · IG+FB · Reel «¿No tienes web? Te la hacemos»
-DESCRIPTION:Reel «¿No tienes web? Te la hacemos»\nArchivos y textos: ht
- tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Ju
- eves 19)
+DESCRIPTION:Reel «¿No tienes web? Te la hacemos»\nArchivos y textos: htt
+ ps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Juev
+ es 19)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -410,8 +409,8 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261119T210000
 DTEND;TZID=Europe/Madrid:20261119T211500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
- ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Jueves 19)
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Jueves 19)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -425,12 +424,12 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261120T083000
 DTEND;TZID=Europe/Madrid:20261120T084500
 SUMMARY:Citalvia · LinkedIn · Primer concesionario (ya programado)
-DESCRIPTION:Ya lo tienes programado en LinkedIn. Al publicarse: pon el pri
- mer comentario «Si queréis verlo funcionando: automoviles-calcedo.es (b
- otón dorado\, abajo a la izquierda)» y contesta los comentarios durante
-  la primera hora.
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
- /calcedo/li_vie_primer_concesionario.png
+DESCRIPTION:Ya lo tienes programado en LinkedIn. Al publicarse: pon el prim
+ er comentario «Si queréis verlo funcionando: automoviles-calcedo.es (bot
+ ón dorado\, abajo a la izquierda)» y contesta los comentarios durante la
+  primera hora.
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48/
+ calcedo/li_vie_primer_concesionario.png
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -443,9 +442,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261120T183000
 DTEND;TZID=Europe/Madrid:20261120T184500
 SUMMARY:Citalvia · IG+FB + TikTok · Reel «Comentas DEMO»
-DESCRIPTION:Reel «Comentas DEMO» · activa ManyChat para «DEMO»\nTikTo
- k · mismo reel\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtC
- Hk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
+DESCRIPTION:Reel «Comentas DEMO» · activa ManyChat para «DEMO»\nTikTok
+  · mismo reel\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk
+ 4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -459,9 +458,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261120T200000
 DTEND;TZID=Europe/Madrid:20261120T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Enlace: citalv
- ia.com/demo · texto «Prueba la demo»\nArchivos y textos: https://claud
- e.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Enlace: citalvi
+ a.com/demo · texto «Prueba la demo»\nArchivos y textos: https://claude.
+ ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Viernes 20)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -474,11 +473,11 @@ UID:citalvia-w47-19@citalvia.com
 DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261121T120000
 DTEND;TZID=Europe/Madrid:20261121T121500
-SUMMARY:Citalvia · IG+FB · Carrusel «De "hola" a una ficha completa» (
- 7 imágenes)
-DESCRIPTION:Carrusel «De "hola" a una ficha completa» (7 imágenes)\nArc
- hivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana
-  16–22 nov · Sábado 21)
+SUMMARY:Citalvia · IG+FB · Carrusel «De "hola" a una ficha completa» (7
+  imágenes)
+DESCRIPTION:Carrusel «De "hola" a una ficha completa» (7 imágenes)\nArch
+ ivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 1
+ 6–22 nov · Sábado 21)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -493,9 +492,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261121T180000
 DTEND;TZID=Europe/Madrid:20261121T181500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «De "hola" a 
- una ficha completa»\nArchivos y textos: https://claude.ai/artifact/9G7D2
- BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Sábado 21)
+DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «De "hola" a u
+ na ficha completa»\nArchivos y textos: https://claude.ai/artifact/9G7D2BF
+ mtCHk4mvxrSD7aU (Semana 16–22 nov · Sábado 21)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -509,9 +508,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261121T200000
 DTEND;TZID=Europe/Madrid:20261121T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Mu
- chos 🚗» / «Casi ninguno»\nArchivos y textos: https://claude.ai/arti
- fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Sábado 21)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Muc
+ hos 🚗» / «Casi ninguno»\nArchivos y textos: https://claude.ai/artifa
+ ct/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Sábado 21)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -525,9 +524,9 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261122T193000
 DTEND;TZID=Europe/Madrid:20261122T194500
 SUMMARY:Citalvia · IG+FB · Reel «Tu bio\, contestando»
-DESCRIPTION:Reel «Tu bio\, contestando» · activa ManyChat para «DEMO»
- \nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (S
- emana 16–22 nov · Domingo 22)
+DESCRIPTION:Reel «Tu bio\, contestando» · activa ManyChat para «DEMO»\
+ nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Sem
+ ana 16–22 nov · Domingo 22)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -541,8 +540,8 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261122T200000
 DTEND;TZID=Europe/Madrid:20261122T201500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
- ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Domingo 22)
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Domingo 22)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -556,10 +555,10 @@ DTSTAMP:20261112T154645Z
 DTSTART;TZID=Europe/Madrid:20261122T203000
 DTEND;TZID=Europe/Madrid:20261122T204500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Sin sticker. S
- i alguien responde DEMO\, contéstale por privado.\nArchivos y textos: ht
- tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Do
- mingo 22)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Sin sticker. Si
+  alguien responde DEMO\, contéstale por privado.\nArchivos y textos: http
+ s://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 16–22 nov · Domin
+ go 22)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -573,9 +572,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261123T100000
 DTEND;TZID=Europe/Madrid:20261123T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Ca
- si siempre» / «Pocas veces»\nArchivos y textos: https://claude.ai/arti
- fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lunes 23)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Cas
+ i siempre» / «Pocas veces»\nArchivos y textos: https://claude.ai/artifa
+ ct/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lunes 23)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -589,9 +588,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261123T193000
 DTEND;TZID=Europe/Madrid:20261123T194500
 SUMMARY:Citalvia · IG+FB · Reel «La pregunta de una compraventa»
-DESCRIPTION:Reel «La pregunta de una compraventa»\nArchivos y textos: ht
- tps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lu
- nes 23)
+DESCRIPTION:Reel «La pregunta de una compraventa»\nArchivos y textos: htt
+ ps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lune
+ s 23)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -605,8 +604,8 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261123T210000
 DTEND;TZID=Europe/Madrid:20261123T211500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
- ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lunes 23)
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Lunes 23)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -620,10 +619,10 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261124T083000
 DTEND;TZID=Europe/Madrid:20261124T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
-DESCRIPTION:LinkedIn · texto + imagen «La pregunta» — Publícalo desd
- e tu perfil personal\; después la página de Citalvia lo comparte.\nArch
- ivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 
- 23–29 nov · Martes 24)
+DESCRIPTION:LinkedIn · texto + imagen «La pregunta» — Publícalo desde
+  tu perfil personal\; después la página de Citalvia lo comparte.\nArchiv
+ os y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23
+ –29 nov · Martes 24)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -637,10 +636,10 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261124T100000
 DTEND;TZID=Europe/Madrid:20261124T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Cuenta atrás:
-  «Black Friday» (viernes 27 de noviembre\, 00:00)\nArchivos y textos: h
- ttps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · M
- artes 24)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Cuenta atrás: 
+ «Black Friday» (viernes 27 de noviembre\, 00:00)\nArchivos y textos: htt
+ ps://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Mart
+ es 24)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -653,17 +652,17 @@ UID:citalvia-w48-6@citalvia.com
 DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261124T130000
 DTEND;TZID=Europe/Madrid:20261124T131500
-SUMMARY:Citalvia · IG+FB · Carrusel «5 datos que tu anuncio debería ll
- evar» (7 imágenes)
-DESCRIPTION:Carrusel «5 datos que tu anuncio debería llevar» (7 imágen
- es)\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
-  (Semana 23–29 nov · Martes 24)
+SUMMARY:Citalvia · IG+FB · Carrusel «5 datos que tu anuncio debería lle
+ var» (7 imágenes)
+DESCRIPTION:Carrusel «5 datos que tu anuncio debería llevar» (7 imágene
+ s)\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (
+ Semana 23–29 nov · Martes 24)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB · Carrusel «5 datos que tu anuncio deberí
- a llevar» (7 imágenes)
+DESCRIPTION:Citalvia · IG+FB · Carrusel «5 datos que tu anuncio debería
+  llevar» (7 imágenes)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -672,9 +671,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261124T190000
 DTEND;TZID=Europe/Madrid:20261124T191500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «5 datos que 
- tu anuncio debería llevar»\nArchivos y textos: https://claude.ai/artifa
- ct/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Martes 24)
+DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «5 datos que t
+ u anuncio debería llevar»\nArchivos y textos: https://claude.ai/artifact
+ /9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Martes 24)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -688,9 +687,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261125T100000
 DTEND;TZID=Europe/Madrid:20261125T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Preguntas: «C
- uéntame»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mv
- xrSD7aU (Semana 23–29 nov · Miércoles 25)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Preguntas: «Cu
+ éntame»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxr
+ SD7aU (Semana 23–29 nov · Miércoles 25)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -703,17 +702,17 @@ UID:citalvia-w48-9@citalvia.com
 DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261125T190000
 DTEND;TZID=Europe/Madrid:20261125T191500
-SUMMARY:Citalvia · IG+FB + TikTok · Reel «En obras: Citalvia en WhatsAp
- p»
-DESCRIPTION:Reel «En obras: Citalvia en WhatsApp»\nTikTok · mismo reel\
- nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Se
- mana 23–29 nov · Miércoles 25)
+SUMMARY:Citalvia · IG+FB + TikTok · Reel «En obras: Citalvia en WhatsApp
+ »
+DESCRIPTION:Reel «En obras: Citalvia en WhatsApp»\nTikTok · mismo reel\n
+ Archivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Sema
+ na 23–29 nov · Miércoles 25)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB + TikTok · Reel «En obras: Citalvia en Wha
- tsApp»
+DESCRIPTION:Citalvia · IG+FB + TikTok · Reel «En obras: Citalvia en What
+ sApp»
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -722,12 +721,12 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261126T083000
 DTEND;TZID=Europe/Madrid:20261126T084500
 SUMMARY:Citalvia · LinkedIn · LinkedIn
-DESCRIPTION:LinkedIn · documento PDF «5 cosas que he aprendido llamando 
- a compraventas» — Publícalo desde tu perfil personal\; después la p
- ágina de Citalvia lo comparte. Súbelo como documento (Añadir documento
-  → PDF) y ponle de título «5 cosas que he aprendido llamando a compra
- ventas».\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvx
- rSD7aU (Semana 23–29 nov · Jueves 26)
+DESCRIPTION:LinkedIn · documento PDF «5 cosas que he aprendido llamando a
+  compraventas» — Publícalo desde tu perfil personal\; después la pág
+ ina de Citalvia lo comparte. Súbelo como documento (Añadir documento →
+  PDF) y ponle de título «5 cosas que he aprendido llamando a compraventa
+ s».\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
+  (Semana 23–29 nov · Jueves 26)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -741,9 +740,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261126T100000
 DTEND;TZID=Europe/Madrid:20261126T101500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Deslizador con
-  emoji 😅\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4m
- vxrSD7aU (Semana 23–29 nov · Jueves 26)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Deslizador con 
+ emoji 😅\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvx
+ rSD7aU (Semana 23–29 nov · Jueves 26)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -756,17 +755,17 @@ UID:citalvia-w48-12@citalvia.com
 DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261126T130000
 DTEND;TZID=Europe/Madrid:20261126T131500
-SUMMARY:Citalvia · IG+FB · Carrusel «¿Cuál es el último precio?» (7
-  imágenes)
-DESCRIPTION:Carrusel «¿Cuál es el último precio?» (7 imágenes)\nArch
- ivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 
- 23–29 nov · Jueves 26)
+SUMMARY:Citalvia · IG+FB · Carrusel «¿Cuál es el último precio?» (7 
+ imágenes)
+DESCRIPTION:Carrusel «¿Cuál es el último precio?» (7 imágenes)\nArchi
+ vos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23
+ –29 nov · Jueves 26)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB · Carrusel «¿Cuál es el último precio?
- » (7 imágenes)
+DESCRIPTION:Citalvia · IG+FB · Carrusel «¿Cuál es el último precio?»
+  (7 imágenes)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -775,9 +774,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261126T190000
 DTEND;TZID=Europe/Madrid:20261126T191500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «¿Cuál es e
- l último precio?»\nArchivos y textos: https://claude.ai/artifact/9G7D2B
- FmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
+DESCRIPTION:TikTok · mismo carrusel (modo foto) · título «¿Cuál es el
+  último precio?»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFm
+ tCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -791,8 +790,8 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261126T193000
 DTEND;TZID=Europe/Madrid:20261126T194500
 SUMMARY:Citalvia · IG+FB · Reel «Una línea»
-DESCRIPTION:Reel «Una línea»\nArchivos y textos: https://claude.ai/arti
- fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
+DESCRIPTION:Reel «Una línea»\nArchivos y textos: https://claude.ai/artif
+ act/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -806,8 +805,8 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261126T210000
 DTEND;TZID=Europe/Madrid:20261126T211500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
- ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Jueves 26)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -821,9 +820,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261127T183000
 DTEND;TZID=Europe/Madrid:20261127T184500
 SUMMARY:Citalvia · IG+FB + TikTok · Reel «Black Friday sin trucos»
-DESCRIPTION:Reel «Black Friday sin trucos» · activa ManyChat para «DEM
- O»\nTikTok · mismo reel\nArchivos y textos: https://claude.ai/artifact/
- 9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Viernes 27)
+DESCRIPTION:Reel «Black Friday sin trucos» · activa ManyChat para «DEMO
+ »\nTikTok · mismo reel\nArchivos y textos: https://claude.ai/artifact/9G
+ 7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Viernes 27)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -837,9 +836,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261127T200000
 DTEND;TZID=Europe/Madrid:20261127T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Enlace: citalv
- ia.com/demo · texto «Prueba la demo»\nArchivos y textos: https://claud
- e.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Viernes 27)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Enlace: citalvi
+ a.com/demo · texto «Prueba la demo»\nArchivos y textos: https://claude.
+ ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Viernes 27)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -852,17 +851,17 @@ UID:citalvia-w48-18@citalvia.com
 DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261128T120000
 DTEND;TZID=Europe/Madrid:20261128T121500
-SUMMARY:Citalvia · IG+FB · Publicación «¿Habéis notado el Black Frid
- ay?»
-DESCRIPTION:Publicación «¿Habéis notado el Black Friday?»\nArchivos y
-  textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–2
- 9 nov · Sábado 28)
+SUMMARY:Citalvia · IG+FB · Publicación «¿Habéis notado el Black Frida
+ y?»
+DESCRIPTION:Publicación «¿Habéis notado el Black Friday?»\nArchivos y 
+ textos: https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 
+ nov · Sábado 28)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · IG+FB · Publicación «¿Habéis notado el Black 
- Friday?»
+DESCRIPTION:Citalvia · IG+FB · Publicación «¿Habéis notado el Black F
+ riday?»
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -871,9 +870,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261128T180000
 DTEND;TZID=Europe/Madrid:20261128T181500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · misma imagen (modo foto) · título «¿Habéis nota
- do el Black Friday?»\nArchivos y textos: https://claude.ai/artifact/9G7D
- 2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Sábado 28)
+DESCRIPTION:TikTok · misma imagen (modo foto) · título «¿Habéis notad
+ o el Black Friday?»\nArchivos y textos: https://claude.ai/artifact/9G7D2B
+ FmtCHk4mvxrSD7aU (Semana 23–29 nov · Sábado 28)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -888,8 +887,8 @@ DTSTART;TZID=Europe/Madrid:20261128T200000
 DTEND;TZID=Europe/Madrid:20261128T201500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
 DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Quiz: «7» / 
- «14» (correcta) / «30»\nArchivos y textos: https://claude.ai/artifact
- /9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Sábado 28)
+ «14» (correcta) / «30»\nArchivos y textos: https://claude.ai/artifact/
+ 9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Sábado 28)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -903,9 +902,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261129T193000
 DTEND;TZID=Europe/Madrid:20261129T194500
 SUMMARY:Citalvia · IG+FB · Reel «Un comprador\, tres compraventas»
-DESCRIPTION:Reel «Un comprador\, tres compraventas» · activa ManyChat p
- ara «DEMO»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4
- mvxrSD7aU (Semana 23–29 nov · Domingo 29)
+DESCRIPTION:Reel «Un comprador\, tres compraventas» · activa ManyChat pa
+ ra «DEMO»\nArchivos y textos: https://claude.ai/artifact/9G7D2BFmtCHk4mv
+ xrSD7aU (Semana 23–29 nov · Domingo 29)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -919,8 +918,8 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261129T200000
 DTEND;TZID=Europe/Madrid:20261129T201500
 SUMMARY:Citalvia · TikTok · TikTok
-DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/art
- ifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Domingo 29)
+DESCRIPTION:TikTok · mismo reel\nArchivos y textos: https://claude.ai/arti
+ fact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Domingo 29)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -934,9 +933,9 @@ DTSTAMP:20261119T102723Z
 DTSTART;TZID=Europe/Madrid:20261129T203000
 DTEND;TZID=Europe/Madrid:20261129T204500
 SUMMARY:Citalvia · IG+FB · Historia (Instagram + Facebook)
-DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Al
-  momento ⚡» / «El lunes 😬»\nArchivos y textos: https://claude.ai/
- artifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Domingo 29)
+DESCRIPTION:Historia (Instagram + Facebook) — Sticker → Encuesta: «Al 
+ momento ⚡» / «El lunes 😬»\nArchivos y textos: https://claude.ai/ar
+ tifact/9G7D2BFmtCHk4mvxrSD7aU (Semana 23–29 nov · Domingo 29)
 URL:https://claude.ai/artifact/9G7D2BFmtCHk4mvxrSD7aU
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -950,12 +949,12 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261120T100000
 DTEND;TZID=Europe/Madrid:20261120T101500
 SUMMARY:Citalvia · IG+FB · Historia «Primer concesionario»
-DESCRIPTION:Historia https://raw.githubusercontent.com/Jaloonn/citalvia-me
- dia/main/2026-w48/calcedo/historia_vie_calcedo.png — Sticker → Enlace
- : https://www.automoviles-calcedo.es/ · texto «Pruébalo en su web». R
- aquel ha dado el OK al nombre y al logo.
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
- /calcedo/historia_vie_calcedo.png
+DESCRIPTION:Historia https://raw.githubusercontent.com/Jaloonn/citalvia-med
+ ia/main/2026-w48/calcedo/historia_vie_calcedo.png — Sticker → Enlace: 
+ https://www.automoviles-calcedo.es/ · texto «Pruébalo en su web». Raqu
+ el ha dado el OK al nombre y al logo.
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48/
+ calcedo/historia_vie_calcedo.png
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -967,19 +966,19 @@ UID:citalvia-calcedo-carr-20261125@citalvia.com
 DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261125T130000
 DTEND;TZID=Europe/Madrid:20261125T131500
-SUMMARY:Citalvia · IG+FB · Carrusel «Un QR en el parabrisas» (5 imáge
- nes)
-DESCRIPTION:Carrusel 4:5\, 5 imágenes: https://raw.githubusercontent.com/
- Jaloonn/citalvia-media/main/2026-w48/calcedo/C_qr_1.jpg … C_qr_5.jpg\nT
- exto IG/FB:\nDomingo\, 21:40. La tienda\, cerrada. Y el coche\, contestan
- do 👇\nCon nuestro primer concesionario\, Automóviles Calcedo\, hemos 
- puesto un QR en el parabrisas de cada coche. Quien pasa por delante lo es
- canea\, ve la ficha en su web y pregunta lo que quiera\, a cualquier hora
- .\n67 coches\, 67 QR.\n👉 ¿Tienes una compraventa? Comenta DEMO y te p
- reparo una con tus propios coches.\n#compraventacoches #concesionario #co
- chesdeocasion #qr
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
- /calcedo/C_qr_1.jpg
+SUMMARY:Citalvia · IG+FB · Carrusel «Un QR en el parabrisas» (5 imágen
+ es)
+DESCRIPTION:Carrusel 4:5\, 5 imágenes: https://raw.githubusercontent.com/J
+ aloonn/citalvia-media/main/2026-w48/calcedo/C_qr_1.jpg … C_qr_5.jpg\nTex
+ to IG/FB:\nDomingo\, 21:40. La tienda\, cerrada. Y el coche\, contestando 
+ 👇\nCon nuestro primer concesionario\, Automóviles Calcedo\, hemos pues
+ to un QR en el parabrisas de cada coche. Quien pasa por delante lo escanea
+ \, ve la ficha en su web y pregunta lo que quiera\, a cualquier hora.\n67 
+ coches\, 67 QR.\n👉 ¿Tienes una compraventa? Comenta DEMO y te preparo 
+ una con tus propios coches.\n#compraventacoches #concesionario #cochesdeoc
+ asion #qr
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48/
+ calcedo/C_qr_1.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -993,14 +992,14 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261125T210000
 DTEND;TZID=Europe/Madrid:20261125T211500
 SUMMARY:Citalvia · TikTok · Modo foto «Un QR en el parabrisas»
-DESCRIPTION:TikTok en modo foto con las 5 imágenes https://raw.githubuser
- content.com/Jaloonn/citalvia-media/main/2026-w48/calcedo/C_qr_1.jpg … C
- _qr_5.jpg (música automática).\nTexto TikTok:\nTienda cerrada\, coche c
- ontestando 🚗 Un QR en cada parabrisas con nuestro primer concesionario
- .\n👉 ¿Tienes una compraventa? Comenta DEMO y te preparo una con tus p
- ropios coches.\n#compraventacoches #vendercoches #concesionario #qr
-URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48
- /calcedo/C_qr_1.jpg
+DESCRIPTION:TikTok en modo foto con las 5 imágenes https://raw.githubuserc
+ ontent.com/Jaloonn/citalvia-media/main/2026-w48/calcedo/C_qr_1.jpg … C_q
+ r_5.jpg (música automática).\nTexto TikTok:\nTienda cerrada\, coche cont
+ estando 🚗 Un QR en cada parabrisas con nuestro primer concesionario.\n
+ 👉 ¿Tienes una compraventa? Comenta DEMO y te preparo una con tus propi
+ os coches.\n#compraventacoches #vendercoches #concesionario #qr
+URL:https://raw.githubusercontent.com/Jaloonn/citalvia-media/main/2026-w48/
+ calcedo/C_qr_1.jpg
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -1014,30 +1013,29 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261203
 TRANSP:TRANSPARENT
 SUMMARY:Citalvia · Calcedo · Prueba de 14 días (19/11–2/12)
-DESCRIPTION:Prueba gratuita de Automóviles Calcedo. Contacto: Raquel Sán
- chez (automovilescalcedo@hotmail.com) y Enrique Calcedo (661 38 34 82). D
- ocumentos firmados en Drive: CITALVIA / Clientes / Automóviles Calcedo. 
- Al terminar: plan Profesional 299 € + IVA/mes (o el año en 10 cuotas)\
- , sin piloto de pago.
+DESCRIPTION:Prueba gratuita de Automóviles Calcedo. Contacto: Raquel Sánc
+ hez (automovilescalcedo@hotmail.com) y Enrique Calcedo (661 38 34 82). Doc
+ umentos firmados en Drive: CITALVIA / Clientes / Automóviles Calcedo. Al 
+ terminar: plan Profesional 299 € + IVA/mes (o el año en 10 cuotas)\, si
+ n piloto de pago.
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-sab-20261121@citalvia.com
 DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261121T103000
 DTEND;TZID=Europe/Madrid:20261121T104500
-SUMMARY:Citalvia · Calcedo · ¿Han contestado lo de los sábados y la we
- b?
-DESCRIPTION:Si Raquel no ha contestado\, llamarla. 1) Horario de los sába
- dos (ajustarlo en el chat). 2) Cambios para más tráfico: botones de red
- es (llevan a Dealcar)\, título de la portada y de Contacto\, un WhatsApp
-  por sede\, enlace a la web en coches.net Aranda\, mensaje de ausencia de
-  WhatsApp. 3) ¿Han puesto los QR en los coches? Pedirles fotos para rede
- s.
+SUMMARY:Citalvia · Calcedo · ¿Han contestado lo de los sábados y la web
+ ?
+DESCRIPTION:Si Raquel no ha contestado\, llamarla. 1) Horario de los sábad
+ os (ajustarlo en el chat). 2) Cambios para más tráfico: botones de redes
+  (llevan a Dealcar)\, título de la portada y de Contacto\, un WhatsApp po
+ r sede\, enlace a la web en coches.net Aranda\, mensaje de ausencia de Wha
+ tsApp. 3) ¿Han puesto los QR en los coches? Pedirles fotos para redes.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · Calcedo · ¿Han contestado lo de los sábados y l
- a web?
+DESCRIPTION:Citalvia · Calcedo · ¿Han contestado lo de los sábados y la
+  web?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1046,14 +1044,14 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261123T180000
 DTEND;TZID=Europe/Madrid:20261123T183000
 SUMMARY:Citalvia · Calcedo · Revisar conversaciones de la primera semana
-DESCRIPTION:En el panel de operador: conversaciones de Calcedo\, avisos de
-  fallos y respuestas a corregir. Preparar 2-3 datos para la llamada del 2
- 6/11. https://www.citalvia.com/panel/
+DESCRIPTION:En el panel de operador: conversaciones de Calcedo\, avisos de 
+ fallos y respuestas a corregir. Preparar 2-3 datos para la llamada del 26/
+ 11. https://www.citalvia.com/panel/
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · Calcedo · Revisar conversaciones de la primera se
- mana
+DESCRIPTION:Citalvia · Calcedo · Revisar conversaciones de la primera sem
+ ana
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1062,9 +1060,9 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261125T180000
 DTEND;TZID=Europe/Madrid:20261125T183000
 SUMMARY:Citalvia · Calcedo · Preparar el informe semanal
-DESCRIPTION:Panel → Informes → «Preparar informe semanal» (PDF). Mir
- ar: conversaciones\, interesados\, fuera de horario y de dónde llegan (Q
- R\, Google\, Instagram…).
+DESCRIPTION:Panel → Informes → «Preparar informe semanal» (PDF). Mira
+ r: conversaciones\, interesados\, fuera de horario y de dónde llegan (QR\
+ , Google\, Instagram…).
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -1077,10 +1075,10 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261126T110000
 DTEND;TZID=Europe/Madrid:20261126T111500
 SUMMARY:Citalvia · Calcedo · Llamada del día 7 (10 min)
-DESCRIPTION:Llamar a Raquel (o a Enrique\, 661 38 34 82). Repasar el infor
- me semanal\, qué fichas han llegado y si las han llamado\, respuestas a 
- mejorar\, sábados\, QR y cambios de la web. Preguntar qué les está par
- eciendo.
+DESCRIPTION:Llamar a Raquel (o a Enrique\, 661 38 34 82). Repasar el inform
+ e semanal\, qué fichas han llegado y si las han llamado\, respuestas a me
+ jorar\, sábados\, QR y cambios de la web. Preguntar qué les está pareci
+ endo.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -1094,14 +1092,13 @@ DTSTART;TZID=Europe/Madrid:20261201T180000
 DTEND;TZID=Europe/Madrid:20261201T184500
 SUMMARY:Citalvia · Calcedo · Preparar el informe final y la propuesta
 DESCRIPTION:Panel → Informes → «Informe final de la prueba (14 días)
- ». Propuesta: plan Profesional 299 € + IVA/mes\, o el año en 10 cuota
- s\; seguir solo con su aceptación por escrito. Si ha ido bien\, volver a
-  pedir el caso de estudio (dijeron que no) y una frase suya.
+ ». Propuesta: plan Profesional 299 € + IVA/mes\, o el año en 10 cuotas
+ \; seguir solo con su aceptación por escrito. Si ha ido bien\, volver a p
+ edir el caso de estudio (dijeron que no) y una frase suya.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · Calcedo · Preparar el informe final y la propuest
- a
+DESCRIPTION:Citalvia · Calcedo · Preparar el informe final y la propuesta
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,9 +1107,9 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261202T110000
 DTEND;TZID=Europe/Madrid:20261202T113000
 SUMMARY:Citalvia · Calcedo · Llamada de fin de prueba (día 14)
-DESCRIPTION:Repasar el informe final y preguntar si quieren seguir con el 
- plan Profesional (299 € + IVA/mes). Si sí: aceptación por escrito y s
- eguir sin cortes. Si no: desactivar el asistente.
+DESCRIPTION:Repasar el informe final y preguntar si quieren seguir con el p
+ lan Profesional (299 € + IVA/mes). Si sí: aceptación por escrito y seg
+ uir sin cortes. Si no: desactivar el asistente.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -1125,10 +1122,10 @@ DTSTAMP:20261119T150000Z
 DTSTART;TZID=Europe/Madrid:20261203T100000
 DTEND;TZID=Europe/Madrid:20261203T101500
 SUMMARY:Citalvia · Calcedo · Cerrar la prueba (sigue o se desactiva)
-DESCRIPTION:Si siguen: confirmación por escrito\, pasar a cliente en Noti
- on y en el chat. Si no: chat en pausa\, cambiar Notion\, quitar su nombre
-  y logo de citalvia.com y de las frases de venta\, y apuntar el 2/1/2027 
- para borrar sus datos (30 días para exportar\, según el DPA).
+DESCRIPTION:Si siguen: confirmación por escrito\, pasar a cliente en Notio
+ n y en el chat. Si no: chat en pausa\, cambiar Notion\, quitar su nombre y
+  logo de citalvia.com y de las frases de venta\, y apuntar el 2/1/2027 par
+ a borrar sus datos (30 días para exportar\, según el DPA).
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -1141,10 +1138,10 @@ DTSTAMP:20261119T170000Z
 DTSTART;TZID=Europe/Madrid:20261219T110000
 DTEND;TZID=Europe/Madrid:20261219T113000
 SUMMARY:Citalvia · Revisar SEO (30 días)
-DESCRIPTION:Search Console y Bing Webmaster: ¿páginas indexadas?\, ¿por
-  qué búsquedas aparece citalvia.com? Buscar «Citalvia» y «chat con I
- A para compraventas» en Google\, Bing y ChatGPT y apuntar qué sale. Ped
- irle a Claude la segunda revisión.
+DESCRIPTION:Search Console y Bing Webmaster: ¿páginas indexadas?\, ¿por 
+ qué búsquedas aparece citalvia.com? Buscar «Citalvia» y «chat con IA 
+ para compraventas» en Google\, Bing y ChatGPT y apuntar qué sale. Pedirl
+ e a Claude la segunda revisión.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -1157,11 +1154,11 @@ DTSTAMP:20261119T211000Z
 DTSTART;TZID=Europe/Madrid:20261120T103000
 DTEND;TZID=Europe/Madrid:20261120T104500
 SUMMARY:Citalvia · WhatsApp · ¿solicitud_nueva ya está «Activa»?
-DESCRIPTION:Mirar en WhatsApp Manager > Administrar plantillas. Si está A
- ctiva: decírselo a Claude y hacer la prueba del aviso con Rivero. Despu
- és: quitar avisos_whatsapp de rivero-motor\, borrar el lead de prueba y 
- borrar nuevo_interesado (marketing) para que se vaya el aviso. Si sigue E
- n revisión: no apelar nada\, volver a mirar al día siguiente.
+DESCRIPTION:Mirar en WhatsApp Manager > Administrar plantillas. Si está Ac
+ tiva: decírselo a Claude y hacer la prueba del aviso con Rivero. Después
+ : quitar avisos_whatsapp de rivero-motor\, borrar el lead de prueba y borr
+ ar nuevo_interesado (marketing) para que se vaya el aviso. Si sigue En rev
+ isión: no apelar nada\, volver a mirar al día siguiente.
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -1173,12 +1170,12 @@ UID:citalvia-rivero-seguimiento-20261123@citalvia.com
 DTSTAMP:20261120T080000Z
 DTSTART;TZID=Europe/Madrid:20261123T103000
 DTEND;TZID=Europe/Madrid:20261123T104500
-SUMMARY:Citalvia · Rivero Motor · Escribirle (¿lo ha hablado con su com
- pañero?)
-DESCRIPTION:Se le dejó el fin de semana para pensarlo. Pedir a Claude el 
- mensaje (si ha hablado con su compañero + respuesta a lo de propietarios 
- y accidentes) y enviarlo por WhatsApp. Si acepta la prueba: condiciones + 
- DPA (en Drive)\, instrucciones de Dealcar y pedir email para los avisos.
+SUMMARY:Citalvia · Rivero Motor · Escribirle (¿lo ha hablado con su comp
+ añero?)
+DESCRIPTION:Se le dejó el fin de semana para pensarlo. Pedir a Claude el m
+ ensaje (si ha hablado con su compañero + respuesta a lo de propietarios y
+  accidentes) y enviarlo por WhatsApp. Si acepta la prueba: condiciones + D
+ PA (en Drive)\, instrucciones de Dealcar y pedir email para los avisos.
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -1191,10 +1188,10 @@ DTSTAMP:20261120T152500Z
 DTSTART;TZID=Europe/Madrid:20271113T103000
 DTEND;TZID=Europe/Madrid:20271113T110000
 SUMMARY:Citalvia · Renovar el token de GitHub del stock automático
-DESCRIPTION:El token de GitHub citalvia-cron caduca hacia el 20/11/2027. C
- rear uno nuevo igual (solo Jaloonn/citalvia-web\, Actions: Read and write)
-  y volver a ejecutar programar-stock.ps1. Si caduca\, el stock solo se act
- ualiza 2 veces al día.
+DESCRIPTION:El token de GitHub citalvia-cron caduca hacia el 20/11/2027. Cr
+ ear uno nuevo igual (solo Jaloonn/citalvia-web\, Actions: Read and write) 
+ y volver a ejecutar programar-stock.ps1. Si caduca\, el stock solo se actu
+ aliza 2 veces al día.
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -1238,33 +1235,36 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-regla-20261130@citalvia.com
-DTSTAMP:20261127T150000Z
+DTSTAMP:20261127T190000Z
 DTSTART;TZID=Europe/Madrid:20261130T110000
 DTEND;TZID=Europe/Madrid:20261130T111500
-SUMMARY:Citalvia · Calcedo: crear la regla de Outlook juntos (videollamada
- )
-DESCRIPTION:Raquel (Automóviles Calcedo) dijo el viernes «Vale\, lo hacem
- os el lunes». Escribirle por WhatsApp (661 383 482) a primera hora para f
- ijar la hora de una videollamada de 5 min.\nEn la llamada: en su Outlook (
- automovilescalcedo@hotmail.com) crear la regla «si el remitente contiene 
- coches.net → Redirigir a» su buzón de Citalvia (la dirección calcedo-
- d1k7uqad@… que va en el email que les mandamos). Probar reenviando un av
- iso real y comprobar que les llega el aviso con la respuesta preparada.\nA
- viso por WhatsApp: lo quieren al 661 383 482. Antes de activarlo (demos/sq
- l/calcedo-avisos-wa.sql) comprobar que la plantilla «nuevo_interesado» e
- stá aprobada en Meta.\nLes llegan unos 70 contactos de coches.net a la se
- mana. Valoración final el miércoles 2/12.
+SUMMARY:Citalvia · Calcedo: regla de reenvío en su Hotmail (videollamada)
+DESCRIPTION:Raquel (Automóviles Calcedo) dijo «Vale\, lo hacemos el lunes
+ ». El viernes 27 a las 19:36 escribió «Nosotros no utilizamos Outlook»
+ : su correo es un Hotmail (automovilescalcedo@hotmail.com) que seguramente
+  leen en el móvil; Hotmail es Outlook.com por dentro. Escribirle por What
+ sApp (661 383 482) a primera hora para fijar una videollamada de 5 min con
+  un ordenador.\nEn la llamada: entrar en outlook.live.com con su Hotmail (
+ la contraseña la pone ella) → engranaje → Correo → Reglas → Agreg
+ ar regla: «El remitente incluye coches.net» → «Redirigir a» su buzó
+ n de Citalvia (calcedo-d1k7uqad@…\, la dirección del email que les mand
+ amos). No tocan nada del móvil: sigue llegándoles todo igual. Probar ree
+ nviando un aviso real y comprobar que llega el email con la respuesta prep
+ arada y el aviso por WhatsApp al 661 383 482.\nSi no quieren tocar el Hotm
+ ail: preguntar si en el panel de coches.net Pro se puede añadir un segund
+ o email para los avisos.\nLes llegan unos 70 contactos de coches.net a la 
+ semana. Valoración final el miércoles 2/12.
 LOCATION:WhatsApp / videollamada con Raquel (661 383 482)
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:Citalvia · Escribir a Raquel (Calcedo) para fijar la hora de l
- a regla de Outlook
+ a regla del Hotmail
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · Calcedo regla de Outlook en 10 min
+DESCRIPTION:Citalvia · Calcedo regla del Hotmail en 10 min
 END:VALARM
 END:VEVENT
 END:VCALENDAR
