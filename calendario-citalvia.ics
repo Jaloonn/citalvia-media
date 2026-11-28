@@ -1008,16 +1008,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-prueba-20261119@citalvia.com
-DTSTAMP:20261119T150000Z
+DTSTAMP:20261128T173500Z
 DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261210
 TRANSP:TRANSPARENT
-SUMMARY:Citalvia · Calcedo · Prueba de 14 días (19/11–2/12)
-DESCRIPTION:Prueba gratuita de Automóviles Calcedo. Contacto: Raquel Sánc
- hez (automovilescalcedo@hotmail.com) y Enrique Calcedo (661 38 34 82). Doc
- umentos firmados en Drive: CITALVIA / Clientes / Automóviles Calcedo. Al 
- terminar: plan Profesional 299 € + IVA/mes (o el año en 10 cuotas)\, si
- n piloto de pago.
+SUMMARY:Citalvia · Calcedo · Prueba ampliada (19/11–9/12)
+DESCRIPTION:Prueba gratuita de Automóviles Calcedo\, ampliada el 28/11 una
+  semana (antes terminaba el 2/12) porque el chat de su web apenas tuvo vis
+ itas (unas 5 conversaciones\, 0 fichas) y lo de coches.net (unos 70 contac
+ tos a la semana) empieza el lunes 30/11. Contacto: Raquel Sánchez (automo
+ vilescalcedo@hotmail.com) y Enrique Calcedo (661 38 34 82). Documentos fir
+ mados en Drive: CITALVIA / Clientes / Automóviles Calcedo. Al terminar: P
+ rofesional 299 € + IVA/mes; como empezaron la prueba antes del 7/12 les 
+ vale la oferta de lanzamiento: 149 € + IVA/mes los 3 primeros meses\, si
+ n permanencia (o pago anual con 2 meses gratis).
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-sab-20261121@citalvia.com
@@ -1087,14 +1091,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-inff-20261201@citalvia.com
-DTSTAMP:20261119T150000Z
-DTSTART;TZID=Europe/Madrid:20261201T180000
-DTEND;TZID=Europe/Madrid:20261201T184500
+DTSTAMP:20261128T173500Z
+DTSTART;TZID=Europe/Madrid:20261208T180000
+DTEND;TZID=Europe/Madrid:20261208T184500
 SUMMARY:Citalvia · Calcedo · Preparar el informe final y la propuesta
-DESCRIPTION:Panel → Informes → «Informe final de la prueba (14 días)
- ». Propuesta: plan Profesional 299 € + IVA/mes\, o el año en 10 cuotas
- \; seguir solo con su aceptación por escrito. Si ha ido bien\, volver a p
- edir el caso de estudio (dijeron que no) y una frase suya.
+DESCRIPTION:Panel → Informes → informe final de la prueba (del 19/11 al
+  9/12). Separar el chat de la web y los contactos de coches.net (desde el 
+ 30/11). Propuesta: Profesional 299 € + IVA/mes; como empezaron la prueba
+  antes del 7/12 les vale la oferta de lanzamiento: 149 € + IVA/mes los 3
+  primeros meses\, sin permanencia (o pago anual con 2 meses gratis); segui
+ r solo con su aceptación por escrito. Si ha ido bien\, volver a pedir el 
+ caso de estudio (dijeron que no) y una frase suya.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -1103,28 +1110,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-ll14-20261202@citalvia.com
-DTSTAMP:20261119T150000Z
-DTSTART;TZID=Europe/Madrid:20261202T110000
-DTEND;TZID=Europe/Madrid:20261202T113000
-SUMMARY:Citalvia · Calcedo · Llamada de fin de prueba (día 14)
-DESCRIPTION:Repasar el informe final y preguntar si quieren seguir con el p
- lan Profesional (299 € + IVA/mes). Si sí: aceptación por escrito y seg
- uir sin cortes. Si no: desactivar el asistente.
+DTSTAMP:20261128T173500Z
+DTSTART;TZID=Europe/Madrid:20261209T110000
+DTEND;TZID=Europe/Madrid:20261209T113000
+SUMMARY:Citalvia · Calcedo · Valoración final de la prueba
+DESCRIPTION:Repasar el informe final (por videollamada o por WhatsApp\, com
+ o prefieran) y preguntar si quieren seguir. Precio: Profesional 299 € + 
+ IVA/mes; como empezaron la prueba antes del 7/12 les vale la oferta de lan
+ zamiento: 149 € + IVA/mes los 3 primeros meses\, sin permanencia (o pago
+  anual con 2 meses gratis). Si sí: aceptación por escrito y seguir sin c
+ ortes. Si no: desactivar el asistente.
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
-DESCRIPTION:Citalvia · Calcedo · Llamada de fin de prueba (día 14)
+DESCRIPTION:Citalvia · Calcedo · Valoración final de la prueba
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-fin-20261203@citalvia.com
-DTSTAMP:20261119T150000Z
-DTSTART;TZID=Europe/Madrid:20261203T100000
-DTEND;TZID=Europe/Madrid:20261203T101500
+DTSTAMP:20261128T173500Z
+DTSTART;TZID=Europe/Madrid:20261210T100000
+DTEND;TZID=Europe/Madrid:20261210T101500
 SUMMARY:Citalvia · Calcedo · Cerrar la prueba (sigue o se desactiva)
 DESCRIPTION:Si siguen: confirmación por escrito\, pasar a cliente en Notio
  n y en el chat. Si no: chat en pausa\, cambiar Notion\, quitar su nombre y
-  logo de citalvia.com y de las frases de venta\, y apuntar el 2/1/2027 par
+  logo de citalvia.com y de las frases de venta\, y apuntar el 9/1/2027 par
  a borrar sus datos (30 días para exportar\, según el DPA).
 BEGIN:VALARM
 TRIGGER:-PT60M
@@ -1235,7 +1245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citalvia-calcedo-regla-20261130@citalvia.com
-DTSTAMP:20261127T190000Z
+DTSTAMP:20261128T173500Z
 DTSTART;TZID=Europe/Madrid:20261130T110000
 DTEND;TZID=Europe/Madrid:20261130T111500
 SUMMARY:Citalvia · Calcedo: regla de reenvío en su Hotmail (videollamada)
@@ -1253,7 +1263,9 @@ DESCRIPTION:Raquel (Automóviles Calcedo) dijo «Vale\, lo hacemos el lunes
  arada y el aviso por WhatsApp al 661 383 482.\nSi no quieren tocar el Hotm
  ail: preguntar si en el panel de coches.net Pro se puede añadir un segund
  o email para los avisos.\nLes llegan unos 70 contactos de coches.net a la 
- semana. Valoración final el miércoles 2/12.
+ semana. Decirles que la prueba se alarga una semana\, hasta el miércoles 
+ 9/12\, para que vean lo de coches.net con contactos reales (que contesten 
+ por escrito que les parece bien). Valoración final el 9/12.
 LOCATION:WhatsApp / videollamada con Raquel (661 383 482)
 BEGIN:VALARM
 TRIGGER:-PT2H
